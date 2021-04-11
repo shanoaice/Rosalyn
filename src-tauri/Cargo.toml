@@ -1,7 +1,7 @@
 [package]
-name = "v-2-ray-r"
+name = "rosalyn"
 version = "0.1.0"
-description = "A Tauri App"
+description = "A cross-platform GUI for v2ray / xray, built with Tauri and React"
 authors = [ "you" ]
 license = ""
 repository = ""
@@ -22,7 +22,7 @@ embedded-server = [ "tauri/embedded-server" ]
 no-server = [ "tauri/no-server" ]
 
 [[bin]]
-name = "v-2-ray-r"
+name = "rosalyn"
 path = "src/main.rs"
 
 [profile.release]
