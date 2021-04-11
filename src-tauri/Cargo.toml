@@ -5,7 +5,7 @@ description = "A cross-platform GUI for v2ray / xray, built with Tauri and React
 authors = [ "you" ]
 license = ""
 repository = ""
-default-run = "v-2-ray-r"
+default-run = "rosalyn"
 edition = "2018"
 build = "src/build.rs"
 
