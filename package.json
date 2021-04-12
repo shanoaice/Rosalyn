@@ -7,8 +7,10 @@
 		"serve": "vite preview"
 	},
 	"dependencies": {
-		"@fluentui/react": "^8.9.4",
+		"@rebass/preset": "^4.0.5",
+		"emotion-theming": "^11.0.0",
 		"preact": "^10.5.13",
+		"rebass": "^4.0.7",
 		"tauri": "^0.14.1"
 	},
 	"devDependencies": {
